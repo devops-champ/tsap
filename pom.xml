@@ -13,7 +13,7 @@
 
     <groupId>com.gspann</groupId>
     <artifactId>sample-app</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <name>sample-app</name>
     <description>Sample Java 25 REST API with health probes</description>
 
